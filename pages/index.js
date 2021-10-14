@@ -1,7 +1,5 @@
-import Head from "next/head";
-import Image from "next/image";
-import ContactUs from "../components/ContactUs";
-import styles from "../styles/Home.module.css";
+import Head from "next/head"
+import ContactUs from "../components/ContactUs"
 
 export default function Home() {
   return (
@@ -19,5 +17,5 @@ export default function Home() {
         <ContactUs />
       </main>
     </div>
-  );
+  )
 }
