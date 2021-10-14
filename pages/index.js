@@ -5,10 +5,10 @@ export default function Home() {
   return (
     <div className="">
       <Head>
-        <title>Sendgrid Contact Form</title>
+        <title>EG Contact Form</title>
         <meta
           name="description"
-          content="A working contact form with Sendgrid integration and form validations."
+          content="A working contact form with Nodemailer integration and form validations."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
